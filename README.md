@@ -3,7 +3,7 @@
  
 Hello, my name is Lynsey. I am currently learning code at CodeCrew.
 ## About Me
-✧  I love all things creepy, weird,and cute.
+✧  I love all things creepy, weird, and cute.
 
 ♡  I’m interested in fashion/film/music/comedy.
 

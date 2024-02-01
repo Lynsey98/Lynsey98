@@ -9,7 +9,7 @@ Hello, my name is Lynsey. I am currently learning code at CodeCrew.
 
 ☆  I’m currently learning code at CodeCrew.
 ### Known coding skills
- ★ html  ★ markdown
+ ✯ html ✯ markdown
  ## Get Connected
 ❣ lynseybfrost2@gmail.com
 
